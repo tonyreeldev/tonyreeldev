@@ -1,112 +1,172 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+<img alt="Professional Banner" src="https://via.placeholder.com/1200x300/2C3E50/FFFFFF?text=Leonel+Rubira+Quimi+-+Analista+de+Soporte+T%C3%A9cnico" width="100%"/>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Leonel Rubira Quimi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+### 👨🏻‍💻 &nbsp;Sobre Mí
 
-### 👨🏻‍💻 &nbsp;About Me
+💼 &nbsp;Actualmente trabajo en RP3 Retail como **Analista de Soporte Técnico** desde marzo 2015.\
+💡 &nbsp;Me apasiona la administración de servidores, virtualización y soluciones tecnológicas empresariales.\
+🎓 &nbsp;Estoy cursando Desarrollo de Software en el Instituto Superior Tecnológico Bolivariano De Tecnología.\
+🌱 &nbsp;Continuamente actualizo mis conocimientos en Windows Server, Hyper-V, Veeam Backup y arquitectura de redes.\
+🔧 &nbsp;Más de 10 años de experiencia en soporte técnico, administración de infraestructura TI y atención al cliente.\
+💬 &nbsp;Disponible para consultas sobre administración de servidores Windows, virtualización y respaldos empresariales.\
+✉️ &nbsp;Puedes contactarme en yaba09@gmail.com\
+📄 &nbsp;Revisa mi perfil completo para conocer más sobre mi experiencia profesional.
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+<img alt="IT Professional" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Stack Tecnológico
+
+**Sistemas Operativos y Servidores**
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+
+**Herramientas de Administración**
+
+![Veeam](https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white)&nbsp;
+![QNAP](https://img.shields.io/badge/QNAP-2E3192?style=for-the-badge&logo=qnap&logoColor=white)&nbsp;
+![HP](https://img.shields.io/badge/HP%20Equipment-0096D6?style=for-the-badge&logo=hp&logoColor=white)&nbsp;
+
+**Ofimática y Desarrollo**
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+**Software Multimedia**
+
+![Adobe](https://img.shields.io/badge/Adobe%20Creative-FF0000?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
+![Video Editing](https://img.shields.io/badge/Audio%20%26%20Video%20Editing-FF6B6B?style=for-the-badge&logo=audacity&logoColor=white)&nbsp;
+
+### 🗃 &nbsp;Bases de Datos
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Database Management](https://img.shields.io/badge/Database%20Admin-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+### 🧰 &nbsp;Herramientas y Aplicaciones Empresariales
+
+![Lotus Notes](https://img.shields.io/badge/Lotus%20Notes-FFD800?style=for-the-badge&logo=ibm&logoColor=black)&nbsp;
+![SAP Basis](https://img.shields.io/badge/SAP%20Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
+![Sigma](https://img.shields.io/badge/Sigma-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🔹 Analista de Soporte Técnico | RP3 Retail
+**Marzo 2015 - Presente**
+
+- Soporte técnico a usuarios y administración de equipos de cómputo
+- Administración e instalación de Servidores Windows Server
+- Configuración y administración de Base de Datos SQL Server
+- Gestión de respaldos con Veeam Backup y Hyper-V
+- Administración de servidores QNAP para almacenamiento empresarial
+- Configuración y preparación de equipos para usuarios finales
+
+### 🔹 Técnico en Mantenimiento | SONDA del Ecuador
+**Diciembre 2011 - Diciembre 2012**
+
+- Soporte técnico y mantenimiento preventivo de equipos
+- Gestión de garantías y reparación de hardware
+- Atención directa a usuarios finales
+
+### 🔹 Analista Técnico | Farcomed (FYBECA)
+**Noviembre 2009 - Octubre 2011**
+
+- Mantenimiento correctivo de equipos de cómputo
+- Instalación y configuración de servidores y equipos especializados
+- Soporte técnico a nivel empresarial
+
+### 🔹 Técnico | EBC - Coca Cola
+**Noviembre 2007 - Noviembre 2008**
+
+- Soporte en aplicaciones empresariales: Basis, Sigma, Lotus Notes
+- Gestión de backups en tiempo real
+- Desarrollo de soluciones tecnológicas
+
+---
+
+## 🎓 Educación y Certificaciones
+
+### 📚 Formación Académica
+
+**Desarrollo de Software** - *En Curso*  
+Instituto Superior Tecnológico Bolivariano De Tecnología (2024 - Presente)
+
+**Programador en Sistemas** - *Abandonado*  
+ESPOL (2003)
+
+### 🏆 Certificaciones y Cursos
+
+- **VEEAM Backup & Replication V12 Administration** - Udemy (2024)
+- **Windows Server 2019 Administration** - Udemy (2023)
+- **Arquitectura de Redes** - Udemy (2023)
+- **Virtualización con Hyper-V en Windows Server** - Udemy (2022)
+- **Certificación de Equipo HP**
+
+---
+
+## 🌟 Habilidades Técnicas
+
+### Nivel Intermedio
+- Office Suite
+- Herramientas Gráficas
+- Software de Gestión
+- Windows Server Administration
+- HP Equipment Management
+
+### Nivel Básico
+- Programación
+- Desarrollo de Software
+- Inglés (Escrito y Oral)
+
+### Especialidades
+- Administración Windows Server 2019
+- Administración Hyper-V Windows Server
+- Software de Edición de Audio y Video
+- Sistemas Operativos multiplataforma
+
+---
+
+## 🎯 Objetivo Profesional
+
+> *"Busco oportunidades que me desafíen y me permitan crecer profesionalmente en un entorno dinámico y colaborativo."*
+
+---
+
+## 📊 Información Personal
+
+📧 **Email:** yaba09@gmail.com  
+📍 **Ubicación:** Avenida Casuarina, Guayaquil, Guayas, Ecuador  
+🎂 **Fecha de Nacimiento:** 02-10-1982  
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+---
 
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-### 🗃 &nbsp;Databases
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
-
-
-### 🧰 &nbsp;Version Controll & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
+## 🤝🏻 &nbsp;Conecta Conmigo
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="mailto:yaba09@gmail.com"><img src="https://img.shields.io/badge/-yaba09@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://wa.me/593990122347"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
+<a href="tel:+593990122347"><img src="https://img.shields.io/badge/-990122347-0078D4?style=flat&logo=Microsoft&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
-### 🎖 &nbsp;My Badges 
-
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-
-### 🐍 &nbsp;That's How Commits move ...
+---
 
 <div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  
+### 💼 Profesional en TI | 🖥️ Administración de Servidores | ☁️ Virtualización | 💾 Respaldos Empresariales
+
+*Más de 10 años de experiencia proporcionando soluciones tecnológicas confiables*
+
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonelrubira&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Profile views" />
+</p>
