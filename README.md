@@ -156,7 +156,6 @@ ESPOL (2003)
 📱 **Teléfono:** 990122347 / 926084  
 📧 **Email:** yaba09@gmail.com  
 📍 **Ubicación:** Avenida Casuarina, Guayaquil, Guayas, Ecuador  
-🆔 **DNI:** 0921154340  
 🎂 **Fecha de Nacimiento:** 02-10-1982  
 
 ---
