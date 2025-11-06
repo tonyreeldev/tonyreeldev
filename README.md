@@ -1,4 +1,4 @@
-<img alt="Professional Banner" src="https://via.placeholder.com/1200x300/2C3E50/FFFFFF?text=Leonel+Rubira+Quimi+-+Analista+de+Soporte+T%C3%A9cnico" width="100%"/>
+<img alt="Professional Banner" src="https://github.com/tonyreeldev/tonyreeldev/blob/main/banner.png" width="100%"/>
 
 <p align="center">
 <a href="https://github.com/leonelrubira">
