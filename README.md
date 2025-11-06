@@ -63,7 +63,6 @@
 <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" height="50" width="60" alt="adobe logo"  />
 
 <br />
-<br />
 
 </div>
 
