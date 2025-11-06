@@ -154,7 +154,7 @@ ESPOL (2003)
 
 ## 📊 Información Personal
 
-📱 **Teléfono:** 990122347 / 926084  
+📱 **Teléfono:** +593990122347
 📧 **Email:** yaba09@gmail.com  
 📍 **Ubicación:** Avenida Casuarina, Guayaquil, Guayas, Ecuador  
 🎂 **Fecha de Nacimiento:** 02-10-1982  
@@ -190,6 +190,6 @@ ESPOL (2003)
 <div align="center">
 
 **Crédito:** [Leonel Rubira Quimi](https://github.com/leonelrubira)  
-**Última actualización:** 06/11/2024
+**Última actualización:** 06/11/2025
 
 </div>
