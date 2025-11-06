@@ -166,26 +166,6 @@ ESPOL (2003)
 📍 **Ubicación:** Avenida Casuarina, Guayaquil, Guayas, Ecuador  
 🆔 **DNI:** 0921154340  
 🎂 **Fecha de Nacimiento:** 02-10-1982  
-💰 **Expectativa Salarial:** $850 USD
-
----
-
-<div align="center">
-  
-## 📈 Estadísticas de GitHub
-
-<br />
-
-</div>
-
-<p align="center">
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonelrubira&theme=gotham&show_icons=true" alt="leonelrubira"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=leonelrubira&show_icons=true&theme=gotham"/>
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelrubira&theme=gotham&layout=compact"/>
-</p>
 
 ---
 
