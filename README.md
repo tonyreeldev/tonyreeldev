@@ -165,7 +165,7 @@ ESPOL (2003)
 
 <p align="center">
 <a href="mailto:yaba09@gmail.com"><img src="https://img.shields.io/badge/-yaba09@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://wa.me/593990122347"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
+<a href="https://wa.me/+593990122347"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
 <a href="tel:+593990122347"><img src="https://img.shields.io/badge/-990122347-0078D4?style=flat&logo=Microsoft&logoColor=white"/></a>
 </p>
 
