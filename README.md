@@ -1,6 +1,12 @@
 <img alt="Professional Banner" src="https://via.placeholder.com/1200x300/2C3E50/FFFFFF?text=Leonel+Rubira+Quimi+-+Analista+de+Soporte+T%C3%A9cnico" width="100%"/>
 
-<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Leonel Rubira Quimi</h2>
+<p align="center">
+<a href="https://github.com/leonelrubira">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Hola%2C+Soy+Leonel+Rubira+Quimi+%F0%9F%91%8B;Analista+de+Soporte+T%C3%A9cnico;Especialista+en+Windows+Server;Administrador+de+Infraestructura+TI;10%2B+A%C3%B1os+de+Experiencia" alt="Typing SVG" />
+</a>
+</p>
+
+<br />
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
@@ -15,43 +21,57 @@
 
 <img alt="IT Professional" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Stack Tecnológico
+<div align="center">
 
-**Sistemas Operativos y Servidores**
+## 💻 Tecnologías y Herramientas que Domino
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+<br />
 
-**Herramientas de Administración**
+### Sistemas Operativos y Servidores
 
-![Veeam](https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white)&nbsp;
-![QNAP](https://img.shields.io/badge/QNAP-2E3192?style=for-the-badge&logo=qnap&logoColor=white)&nbsp;
-![HP](https://img.shields.io/badge/HP%20Equipment-0096D6?style=for-the-badge&logo=hp&logoColor=white)&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="60" alt="windows logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="60" alt="linux logo"  />
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" height="50" width="60" alt="hyper-v logo"  />
 
-**Ofimática y Desarrollo**
+<br />
+<br />
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+### Bases de Datos
 
-**Software Multimedia**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="60" alt="sql server logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="60" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="60" alt="postgresql logo"  />
 
-![Adobe](https://img.shields.io/badge/Adobe%20Creative-FF0000?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Video Editing](https://img.shields.io/badge/Audio%20%26%20Video%20Editing-FF6B6B?style=for-the-badge&logo=audacity&logoColor=white)&nbsp;
+<br />
+<br />
 
-### 🗃 &nbsp;Bases de Datos
+### Lenguajes de Programación (Nivel Básico)
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Database Management](https://img.shields.io/badge/Database%20Admin-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="60" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="60" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="60" alt="java logo"  />
 
-### 🧰 &nbsp;Herramientas y Aplicaciones Empresariales
+<br />
+<br />
 
-![Lotus Notes](https://img.shields.io/badge/Lotus%20Notes-FFD800?style=for-the-badge&logo=ibm&logoColor=black)&nbsp;
-![SAP Basis](https://img.shields.io/badge/SAP%20Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
-![Sigma](https://img.shields.io/badge/Sigma-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+### Diseño Gráfico y Multimedia (Nivel Básico)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" width="60" alt="illustrator logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" width="60" alt="photoshop logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" width="60" alt="after effects logo"  />
+<img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" height="50" width="60" alt="adobe logo"  />
+
+<br />
+<br />
+
+### Herramientas de Administración y Virtualización
+
+<img src="https://www.vectorlogo.zone/logos/hp/hp-icon.svg" height="50" width="60" alt="hp logo"  />
+<img src="https://www.vectorlogo.zone/logos/office/office-icon.svg" height="50" width="60" alt="office logo"  />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="60" alt="git logo"  />
+
+</div>
 
 ---
 
@@ -120,7 +140,8 @@ ESPOL (2003)
 - HP Equipment Management
 
 ### Nivel Básico
-- Programación
+- **Programación:** HTML5, CSS3, Python, Java
+- **Diseño Gráfico:** Adobe Illustrator, Photoshop, After Effects, Affinity Designer
 - Desarrollo de Software
 - Inglés (Escrito y Oral)
 
@@ -140,10 +161,31 @@ ESPOL (2003)
 
 ## 📊 Información Personal
 
+📱 **Teléfono:** 990122347 / 926084  
 📧 **Email:** yaba09@gmail.com  
 📍 **Ubicación:** Avenida Casuarina, Guayaquil, Guayas, Ecuador  
+🆔 **DNI:** 0921154340  
 🎂 **Fecha de Nacimiento:** 02-10-1982  
+💰 **Expectativa Salarial:** $850 USD
 
+---
+
+<div align="center">
+  
+## 📈 Estadísticas de GitHub
+
+<br />
+
+</div>
+
+<p align="center">
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonelrubira&theme=gotham&show_icons=true" alt="leonelrubira"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=leonelrubira&show_icons=true&theme=gotham"/>
+</p>
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelrubira&theme=gotham&layout=compact"/>
+</p>
 
 ---
 
@@ -170,3 +212,12 @@ ESPOL (2003)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonelrubira&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+---
+
+<div align="center">
+
+**Crédito:** [Leonel Rubira Quimi](https://github.com/leonelrubira)  
+**Última actualización:** 06/11/2024
+
+</div>
