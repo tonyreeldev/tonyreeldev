@@ -19,8 +19,6 @@
 ✉️ &nbsp;Puedes contactarme en yaba09@gmail.com\
 📄 &nbsp;Revisa mi perfil completo para conocer más sobre mi experiencia profesional.
 
-<img alt="IT Professional" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 <div align="center">
 
 ## 💻 Tecnologías y Herramientas que Domino
@@ -68,7 +66,7 @@
 ### Herramientas de Administración y Virtualización
 
 <img src="https://www.vectorlogo.zone/logos/hp/hp-icon.svg" height="50" width="60" alt="hp logo"  />
-<img src="[https://www.vectorlogo.zone/logos/office/office-icon.svg" height="50" width="60" alt="office logo](https://icons8.com/icon/37619/office-365)"  />
+<img src="https://icons8.com/icon/37619/office-365" height="50" width="60" alt="office logo"  />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="60" alt="git logo"  />
 
 </div>
