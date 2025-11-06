@@ -63,12 +63,6 @@
 <br />
 <br />
 
-### Herramientas de Administración y Virtualización
-
-<img src="https://www.vectorlogo.zone/logos/hp/hp-icon.svg" height="50" width="60" alt="hp logo"  />
-<img src="https://worldvectorlogo.com/download/office-2.svg" height="50" width="60" alt="office logo"  />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="60" alt="git logo"  />
-
 </div>
 
 ---
